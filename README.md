@@ -1,7 +1,7 @@
 # ReactJs Calculator
 
 This is a basic calculator web application developed using ReactJS. It allows users to perform simple arithmetic calculations such as addition, subtraction, multiplication, and division.
-![Calculator Demo](https://gorgeous-salmiakki-c320be.netlify.app/)
+[Live Here](https://gorgeous-salmiakki-c320be.netlify.app/)
 
 ![image](https://github.com/vickytilotia/ReactJs-Calculator/assets/32337899/ffee2649-29cd-41cd-bdbf-533fe848766d)
 
